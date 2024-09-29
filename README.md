@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eduardo Neri<br>👨‍💻 Programador Full-Stack | 🚀 Apaixonado por Tecnologia<br><br>Sou um desenvolvedor full-stack com experiência em criar aplicações web dinâmicas e escaláveis. Tenho um forte interesse em aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos inovadores.</p>
+<p align="left">Eduardo Neri<br>👨‍💻 Full-Stack Developer | 🚀 Apaixonado por Tecnologia<br><br>Sou um desenvolvedor full-stack com experiência em criar aplicações web dinâmicas e escaláveis. Tenho um forte interesse em aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos inovadores.</p>
 
 ###
 
