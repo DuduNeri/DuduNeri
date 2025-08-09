@@ -91,6 +91,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DuduNeri/DuduNeri/output/snake.svg" alt="Snake animation" />
-
-###
