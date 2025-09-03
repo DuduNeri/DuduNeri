@@ -1,13 +1,13 @@
 <h1 align="center">Eduardo Neri</h1>
-<h3 align="center">🚀 Full-Stack Developer | Passionate About Technology</h3>
+<h3 align="center">Desenvolvedor full-stack</h3>
 
 ---
 
 ## About Me
 
 <p align="center">
-Full-stack web developer building scalable web apps.  
-Love learning, improving, and taking on challenging projects.  
+Sou desenvolvedor full-stack com experiência em aplicações web dinâmicas e escaláveis.  
+Sempre buscando aprender novas tecnologias e contribuir para projetos desafiadores. 
 </p>
 
 ---
