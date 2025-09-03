@@ -1,91 +1,62 @@
-<h2 align="left">About Me</h2>
+# 👋 Hi, I'm Eduardo Neri  
 
-###
+🚀 **Full-Stack Developer** | Apaixonado por tecnologia e inovação  
 
-<p align="left">Eduardo Neri<br> Full-Stack Developer | 🚀 Passionate About Technology<br><br>I'm a full-stack web developer with experience in building dynamic and scalable web applications. I have a strong passion for learning new technologies and continuously improving my skills. I'm always looking for challenges that allow me to grow professionally and contribute to innovative projects.</p>
+Sou desenvolvedor full-stack com experiência em aplicações web dinâmicas e escaláveis.  
+Sempre buscando aprender novas tecnologias e contribuir para projetos desafiadores.  
 
-###
+---
 
-<h2 align="left">Techs</h2>
+## 🛠 Tech Stack  
 
-###
-
-<p align="left">Frontend:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+### Frontend  
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
-###
-
-<p align="left">Backend:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+### Backend  
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
-###
-
-<p align="left">Databases:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+### Databases  
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
-###
-
-<p align="left">IDEs:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+### Tools  
+<div>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" />
 </div>
 
-###
+---
 
-<h2 align="left">Stats</h2>
+## 📊 GitHub Stats  
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuduNeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuduNeri&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuduNeri&theme=tokyo-night&area=true&hide_border=true" height="250" />
+</div>  
 
-###
+---
 
-<h2 align="left">Social Media</h2>
-
-###
+## 🌐 Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-neri-martins" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-Eduardo%20Neri-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/eduardoneri___" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-@eduardoneri___-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
 </div>
-
-###
-
