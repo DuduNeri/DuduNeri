@@ -3,11 +3,11 @@
 
 ---
 
-## 🖤 About Me
+## About Me
 
 <p align="center">
-Full-stack web developer with experience in building dynamic and scalable web applications.  
-I love learning new technologies, improving my skills, and taking on challenging projects that make an impact.
+Full-stack web developer building scalable web apps.  
+Love learning, improving, and taking on challenging projects.  
 </p>
 
 ---
@@ -45,12 +45,14 @@ I love learning new technologies, improving my skills, and taking on challenging
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduNeri&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <!-- Stats com tema dark + cores vibrantes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduNeri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuduNeri&theme=github-dark&area=true&hide_border=true" height="250"/>
+  <!-- Activity Graph estilo cobrinha/Pac-Man -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuduNeri&theme=react-dark&area=true&hide_border=true&radius=16" height="250"/>
 </div>
 
 ---
