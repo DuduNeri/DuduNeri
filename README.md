@@ -26,7 +26,7 @@
 </table>
 
 ###
-
+<table align="center">
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-</div>
+</table>
 
 ###
 
