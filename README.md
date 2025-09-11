@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: nowrap;">
   <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=true" 
@@ -21,7 +21,6 @@
     alt="stats graph"  
   />
 </div>
-
 
 ###
 
