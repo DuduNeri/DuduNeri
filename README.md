@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## Techs  
 
 <div align="center">
 
