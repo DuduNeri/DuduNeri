@@ -1,10 +1,4 @@
-## 👋 About Me
-
-Hi, I'm **Eduardo Neri**  
-💻 Full-Stack Developer | 🚀 Passionate About Technology  
-
-I love building scalable web applications, learning new technologies, and improving my skills every day.  
-Always open to challenges that help me grow and contribute to innovative projects.  
+## 👋 Hi 
 
 ---
 
