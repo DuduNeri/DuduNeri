@@ -7,8 +7,8 @@
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=true" 
-        width="360" 
-        height="180"
+        width="280" 
+        height="140"
         style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
         alt="languages graph"  
       />
@@ -53,5 +53,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
