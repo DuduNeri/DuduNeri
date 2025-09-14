@@ -26,7 +26,6 @@
 </table>
 
 ###
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
@@ -42,7 +41,6 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
 </div>
 
-###
 ###
 
 <div align="center">
