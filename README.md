@@ -57,10 +57,3 @@
 </div>
 
 ---
-
-### 🚀 Featured Projects
-- 🛒 **E-commerce API** – Node.js + TypeScript + PostgreSQL  
-- 🐶 **Adoption Pets** – Plataforma de adoção de pets  
-- 🤖 **WhatsApp Bot (Venom)** – Bot com IA e integração de voz estilo Jarvis  
-
-📌 Confira mais no meu [portfólio](#)  
