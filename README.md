@@ -29,8 +29,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
