@@ -16,8 +16,8 @@
       />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=DuduNeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" 
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=DuduNeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" 
         width="360" 
         height="180"
         style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
