@@ -1,9 +1,5 @@
 <h2 align="center">Hi, I'm Eduardo 👋</h2>
 
-<p align="center">
-  💻 Backend Developer | ⚡ Always learning | 🚀 Building projects with Node.js & TypeScript
-</p>
-
 ---
 
 ### 📊 GitHub Stats
