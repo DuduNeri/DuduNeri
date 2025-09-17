@@ -1,4 +1,4 @@
-<h2 align="right">Hi, I'm Eduardo 🧙‍♂️</h2>
+<h2 align="left">Hi, I'm Eduardo 🧙‍♂️</h2>
 
 ---
 
