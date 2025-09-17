@@ -47,7 +47,7 @@
 
 ### 🌍 Connect with me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/eduardo-neri-martins" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
