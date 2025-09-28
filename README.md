@@ -5,24 +5,27 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    height="150" 
-    alt="stats graph" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
-    height="150" 
-    alt="languages graph" 
-  />
-
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+          height="180" 
+          alt="stats graph" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
+          height="180" 
+          alt="languages graph" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
-### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
