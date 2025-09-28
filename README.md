@@ -1,10 +1,10 @@
-<h2 align="left">Hi there, I'm Eduardo 👋</h2>
+<h2 align="left">Hi, I'm Eduardo </h2>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td>
@@ -27,7 +27,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
