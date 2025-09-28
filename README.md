@@ -1,4 +1,8 @@
-<h2 align="left">Hi, I'm Eduardo </h2>
+<h2 align="left">Hi, I'm Eduardo 👋</h2>
+
+<p align="left">
+  Fullstack Developer passionate about building scalable apps, clean code and modern web solutions.
+</p>
 
 ---
 
@@ -11,21 +15,43 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=true" 
         width="360" 
         height="180"
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
         alt="languages graph"  
       />
     </td>
     <td>
-    <img 
+      <img 
         src="https://github-readme-stats.vercel.app/api?username=DuduNeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" 
         width="360" 
         height="180"
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
         alt="stats graph"  
       />
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DuduNeri&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DuduNeri/en-e-comerce">
+    <img src="https://img.shields.io/badge/E--Commerce-Node.js%20%7C%20TS-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/DuduNeri/adoptionpets">
+    <img src="https://img.shields.io/badge/Adoption%20Pets-React%20%7C%20TS-green?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/DuduNeri/en-api-products">
+    <img src="https://img.shields.io/badge/API%20Products-Node.js-orange?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
