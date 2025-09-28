@@ -1,33 +1,30 @@
-<h2 align="left">Hi, I'm Eduardo </h2>
+<h2 align="left">Hi there, I'm Eduardo 👋</h2>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-          height="180" 
-          alt="stats graph" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
-          height="180" 
-          alt="languages graph" 
-        />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    height="180" 
+    alt="Eduardo's GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
+    height="180" 
+    alt="Most Used Languages" 
+  />
+
 </div>
 
 ---
 
-<div align="left">
+### 🛠️ Tech Stack
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
