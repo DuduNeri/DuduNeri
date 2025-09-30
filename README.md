@@ -27,7 +27,6 @@
   </tr>
 </table>
 
----
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
@@ -42,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
 </div>
-
----
 
 ### 🌍 Connect with me
 
