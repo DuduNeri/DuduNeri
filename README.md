@@ -5,8 +5,6 @@
 ### 📊 GitHub Stats
 
 <table align="center">
-  <tr>
-    <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=true" 
         width="360" 
@@ -23,8 +21,6 @@
         style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
         alt="stats graph"  
       />
-    </td>
-  </tr>
 </table>
 
 
