@@ -2,32 +2,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduNeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=true" 
-        width="360" 
-        height="180"
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
-        alt="languages graph"  
-      />
-    </td>
-    <td>
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=DuduNeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" 
-        width="360" 
-        height="180"
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" 
-        alt="stats graph"  
-      />
-    </td>
-  </tr>
-</table>
-
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
