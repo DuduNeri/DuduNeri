@@ -1,24 +1,6 @@
 <h2 align="left">Hi, I'm Eduardo </h2>
 
 ---
-
-### 📊 GitHub Status
-<div align="left">
-
-  <!-- Stats (mirror oficial e estável) -->
-  <img 
-    height="160" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardonm07&show_icons=true&theme=tokyonight" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    height="160" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardonm07&layout=compact&theme=tokyonight" 
-  />
-
-</div>
-
 ---
 
 <div align="left">
