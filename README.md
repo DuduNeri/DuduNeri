@@ -4,8 +4,19 @@
 
 ### 📊 GitHub Status
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardonm07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonm07&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- Stats (mirror oficial e estável) -->
+  <img 
+    height="160" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardonm07&show_icons=true&theme=tokyonight" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    height="160" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardonm07&layout=compact&theme=tokyonight" 
+  />
+
 </div>
 
 ---
