@@ -2,6 +2,14 @@
 
 ---
 
+### 📊 GitHub Status
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardonm07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonm07&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
