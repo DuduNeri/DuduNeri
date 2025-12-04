@@ -1,6 +1,5 @@
 <h2 align="left">Hi, I'm Eduardo </h2>
 
----
 <h2 align="left">Tech & Tools </h2>
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
