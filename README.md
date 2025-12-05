@@ -1,7 +1,6 @@
 <h2 align="left">Hi, I'm Eduardo </h2>
 
 <div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoNeri&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoNeri&theme=tokyonight&hide_border=true" />
 </div>
 
