@@ -1,4 +1,5 @@
 <h2 align="left">Hi, I'm Eduardo </h2>
+<h2 align="left"></h2>
 
 <div align="left">
   <img height="170" src="https://streak-stats.demolab.com?user=DuduNeri&theme=tokyonight&hide_border=true" />
