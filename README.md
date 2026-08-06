@@ -56,9 +56,9 @@
     <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo" />
   </a>
   &nbsp;
- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="ubuntu logo" />
-</a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="ubuntu logo" />
+  </a>
 </p>
 
 <br />
