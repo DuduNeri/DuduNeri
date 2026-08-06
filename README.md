@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Eduardo Neri</h1>
 <p align="left">
-  <b>Full Stack Developer</b> specialized in <b>TypeScript, NestJS, and React</b>. Building scalable REST APIs, modern web interfaces, and performance-focused architectures.
+  <b>Full Stack Developer</b> 
 </p>
 
 <br />
@@ -57,7 +57,7 @@
   </a>
   &nbsp;
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linuxmint/87C038" height="36" alt="linux mint logo" />
+    <img src="https://cdn.simpleicons.org/ubunto/87C038" height="36" alt="ubuntu logo" />
   </a>
 </p>
 
