@@ -5,8 +5,9 @@
 
 <br />
 
-<!-- GitHub Stats Section -->
-
+<div align="left">
+  <img height="170" src="https://streak-stats.demolab.com?user=DuduNeri&theme=tokyonight&hide_border=true" />
+</div>
 <br />
 
 <!-- Tech & Tools -->
