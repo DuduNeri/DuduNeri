@@ -6,9 +6,6 @@
 <br />
 
 <!-- GitHub Stats Section -->
-<div align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=DuduNeri&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub Streak" />
-</div>
 
 <br />
 
