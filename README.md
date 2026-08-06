@@ -56,7 +56,7 @@
     <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo" />
   </a>
   &nbsp;
-  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
+  <a href="https://ubuntu/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/ubunto/87C038" height="36" alt="ubuntu logo" />
   </a>
 </p>
