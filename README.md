@@ -13,6 +13,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
   <img width="12" />
+   <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="nest logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
