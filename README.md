@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=170&section=header&text=Eduardo%20Neri&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Node.js+%7C+TypeScript+%7C+NestJS;React+%7C+Material+UI;Building+clean%2C+scalable+web+apps" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Node.js+%7C+TypeScript+%7C+NestJS;React+%7C+Material+UI;AWS+%7C+Docker+%7C+CI%2FCD;Building+clean%2C+scalable+web+apps" alt="typing" />
 </a>
 
 <br /><br />
@@ -13,6 +13,9 @@
 </a>
 <a href="https://www.instagram.com/eduardoneri___" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/DuduNeri" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=DuduNeri&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="views" />
 
@@ -46,3 +49,7 @@
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=80&section=footer" alt="footer" />
+</div>
