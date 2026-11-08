@@ -44,7 +44,6 @@
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=DuduNeri&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DuduNeri&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="stats" />
 </div>
 
 <br />
