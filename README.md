@@ -46,11 +46,3 @@
 </div>
 
 <br />
-
-## 🐍 Contributions
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=100&section=footer" alt="footer" />
-</div>
